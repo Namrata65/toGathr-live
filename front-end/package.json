@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "PORT=5173 react-scripts start"
+    
   },
   "dependencies": {
     "@ag-grid-community/client-side-row-model": "^32.2.1",
